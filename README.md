@@ -14,7 +14,6 @@ This project provides an easy-to-read implementation of a classic 3x3 Tic Tac To
 
 ---
 
-## Demo / Screenshot
 ## How to Play
 
 - Players alternate turns placing their mark (X or O) on a 3x3 board.
